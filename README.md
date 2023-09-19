@@ -1,5 +1,4 @@
-### Welcome!
-
+## Welcome! I'm Gabriel, an aspiring back-end developer.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel2ferreira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -18,6 +17,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gabriel1ferreira&show_icons=true&theme=algolia)](https://github.com/gabriel1ferreira/github-readme-stats)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabriel1ferreira&langs_count=8&theme=algolia)
 
+
+ <h1 align="center">Skills</h1>
 <div>
   <img align="center" alt="asta" height="1" width="1000" style="border-radius:0px;" src="https://64.media.tumblr.com/9450765e9b44d4f9a6e93ccf8ccdff61/4fc0a3bbcd7fccb8-3c/s400x600/021c7745f96e33b1027c244c5ea017e14d9af23b.gif">
 </div>
