@@ -15,7 +15,7 @@
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabriel1ferreira&langs_count=8&theme=algolia)
 
   <div>
-<img align="right" alt="asta" height="200" width="400" style="border-radius:0px;" src=https://media.discordapp.net/attachments/1146038064846733362/1146757101671157790/F2016670-3D95-488E-A282-B3C5CFF878A4.gif>
+<img align="center" alt="asta" height="200" width="400" style="border-radius:0px;" src=https://media.discordapp.net/attachments/1146038064846733362/1146757101671157790/F2016670-3D95-488E-A282-B3C5CFF878A4.gif>
 </div>
 <br>
  <h1 align="center">Skills</h1>
