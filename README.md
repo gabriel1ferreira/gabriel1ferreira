@@ -9,7 +9,7 @@
   <div>
   <img align="center" alt="asta" height="1" width="1000" style="border-radius:0px;" src="https://64.media.tumblr.com/9450765e9b44d4f9a6e93ccf8ccdff61/4fc0a3bbcd7fccb8-3c/s400x600/021c7745f96e33b1027c244c5ea017e14d9af23b.gif">
 </div>
-
+ <br>
  <div>
 <img align="right" alt="asta" height="200" width="400" style="border-radius:0px;" src=https://media.discordapp.net/attachments/1146038064846733362/1146757101671157790/F2016670-3D95-488E-A282-B3C5CFF878A4.gif>
 </div>
@@ -19,14 +19,12 @@
   <br>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel1ferreira&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-
- 
-
-<br>
- <h1 align="center">Skills</h1>
 <div>
   <img align="center" alt="asta" height="1" width="1000" style="border-radius:0px;" src="https://64.media.tumblr.com/9450765e9b44d4f9a6e93ccf8ccdff61/4fc0a3bbcd7fccb8-3c/s400x600/021c7745f96e33b1027c244c5ea017e14d9af23b.gif">
 </div>
+ 
+
+ <h1 align="center">Skills</h1>
 
 <div align="center">
 <img align="center" alt="Rafa-Js" Height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
