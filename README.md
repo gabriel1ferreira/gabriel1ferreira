@@ -13,13 +13,10 @@
  <div>
 <img align="right" alt="asta" height="200" width="400" style="border-radius:0px;" src=https://media.discordapp.net/attachments/1146038064846733362/1146757101671157790/F2016670-3D95-488E-A282-B3C5CFF878A4.gif>
 </div>
-<div align="left">
-<div align="left">
-<a href="https://github.com/gabriel1ferreira">
-  <img height="180em" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriel1ferreira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <br>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel1ferreira&layout=compact&langs_count=7&theme=algolia"/>
-</div>
+
+<a href="https://github.com/gabriel1ferreira/github-readme-stats"><img height="180em" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriel1ferreira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="gabriel1ferreira github stats" /></a> 
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel1ferreira&layout=compact&theme=algolia&hide_border=false" /></a>
 <div>
   <img align="center" alt="asta" height="1" width="1000" style="border-radius:0px;" src="https://64.media.tumblr.com/9450765e9b44d4f9a6e93ccf8ccdff61/4fc0a3bbcd7fccb8-3c/s400x600/021c7745f96e33b1027c244c5ea017e14d9af23b.gif">
 </div>
