@@ -14,9 +14,12 @@
 <img align="right" alt="asta" height="200" width="400" style="border-radius:0px;" src=https://media.discordapp.net/attachments/1146038064846733362/1146757101671157790/F2016670-3D95-488E-A282-B3C5CFF878A4.gif>
 </div>
 
-<a href="https://github.com/gabriel1ferreira/github-readme-stats"><img height="180em" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriel1ferreira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="gabriel1ferreira github stats" /></a> 
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel1ferreira&layout=compact&theme=algolia&hide_border=false" /></a>
+<div align="left">
+<a href="https://github.com/gabriel1ferreira">
+  <img height="180em" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriel1ferreira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <br>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferreira&layout=compact&langs_count=7&theme=algolia"/>
+</div>
 <div>
   <img align="center" alt="asta" height="1" width="1000" style="border-radius:0px;" src="https://64.media.tumblr.com/9450765e9b44d4f9a6e93ccf8ccdff61/4fc0a3bbcd7fccb8-3c/s400x600/021c7745f96e33b1027c244c5ea017e14d9af23b.gif">
 </div>
@@ -27,7 +30,7 @@
 <div align="center">
 <img align="center" alt="Rafa-Js" Height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="center" alt="Rafa-Js" Height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="center" alt="Rafa-Js" Height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="center" alt="Rafa-Js" Height="30" width="40" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="Rafa-Js" Height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="center" alt="Rafa-Js" Height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="center" alt="Rafa-Js" Height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
