@@ -11,7 +11,7 @@
 </div>
  <br>
  <div>
-<img align="right" alt="asta" height="200" width="400" style="border-radius:0px;" src=https://media.discordapp.net/attachments/1146038064846733362/1146757101671157790/F2016670-3D95-488E-A282-B3C5CFF878A4.gif>
+<img align="right" alt="asta" height="200" width="400" style="border-radius:0px;" src=https://i.pinimg.com/originals/fd/42/7f/fd427f05dab9e401f285497c0287416d.gif>
 </div>
 
 <div align="left">
