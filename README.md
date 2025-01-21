@@ -1,4 +1,4 @@
-## Welcome! I'm Gabriel, a fullstack developer.
+## Welcome! I'm Gabriel, a Full-Stack Developer and a cybersecurity analyst.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel2ferreira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
