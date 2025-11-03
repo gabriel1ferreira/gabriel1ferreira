@@ -1,3 +1,3 @@
-## Welcome! I'm Gabriel, a Full-Stack Developer and a CyberSecurity Analyst.
+## Welcome! I'm Gabriel, a CyberSecurity Analyst.
 
 
